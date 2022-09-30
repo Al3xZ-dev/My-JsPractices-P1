@@ -274,3 +274,22 @@
    }else{
    alert('Your number is not even divisible by 2,3,5 and 7')
   };*/
+
+  //⚡⚡ EX__:Multiply a growing number by 7, starting with 1, (1x7, 2x7, 3x7...) and display the result of that multiplication. Stop when the value value of the multiplication is greater than 1000
+/*
+ for( i = 1; i * 7 < 1000; i++) {
+    console.log(i * 7);
+}
+
+for( i = 1; i < 1000; i++) {
+    if(i * 7 > 1000) {
+        break;
+    }
+    console.log(i, i * 7);
+}
+
+let i = 1;
+while(i * 7 < 1000) {
+    console.log(i * 7);
+    i++;
+} */
