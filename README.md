@@ -1,0 +1,1 @@
+In this repository I upload some of the exercises that I have done to practice and learn JavasScript
